@@ -18,5 +18,7 @@ http://www.sthda.com/english/articles/24-ggpubr-publication-ready-plots/76-add-p
 #ggplot_split_plot
 http://www.sthda.com/english/wiki/ggplot2-facet-split-a-plot-into-a-matrix-of-panels
 
+#Bioconductor Package Maintainer (2019). highthroughputassays: Using Bioconductor with High Throughput Assays. R package version 1.8.0, https://www.bioconductor.org/help/workflows/highthroughputassays/.
+
 
 
