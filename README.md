@@ -20,5 +20,6 @@ http://www.sthda.com/english/wiki/ggplot2-facet-split-a-plot-into-a-matrix-of-pa
 
 #Bioconductor Package Maintainer (2019). highthroughputassays: Using Bioconductor with High Throughput Assays. R package version 1.8.0, https://www.bioconductor.org/help/workflows/highthroughputassays/.
 
-
+#HIV reseach trends from EURO PMC
+https://gist.github.com/dsquintana/b512b715786088339b61a7fb79367d5e
 
